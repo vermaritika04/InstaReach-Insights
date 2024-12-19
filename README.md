@@ -23,7 +23,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/InstaReach-Insights.git
+   git clone https://github.com/vermaritika04/InstaReach-Insights.git
    ```
 
 2. Navigate to the project directory:
@@ -73,7 +73,7 @@ If you want to contribute to **InstaReach Insights**, feel free to fork the repo
 1. Fork the repository.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/youvermaritika04/InstaReach-Insights.git
+   git clone https://github.com/vermaritika04/InstaReach-Insights.git
    ```
 3. Create a branch for your feature:
    ```bash
